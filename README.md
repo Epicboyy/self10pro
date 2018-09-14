@@ -1,12 +1,12 @@
 # SELFBOT + 10 PROTECT
-## VPS SERVER
+## TERMUX
 - install module
 ```
 apt-get install python3
 apt-get install python3-tz
 pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0
 ```
-## TERMINAL CLOUDS
+## VPS
 ```
 sudo apt-get install python3
 sudo apt-get install pyhton3-tz
@@ -19,7 +19,7 @@ python3 self10pro.py
 ```
 - LINE UPDATE
 september 2018
-# [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
+# [教學](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
 V3.1 last update::
 - september/2018
 # official bots
